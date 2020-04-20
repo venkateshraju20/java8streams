@@ -1,4 +1,4 @@
-package java8features.learn;
+package java8features.streams;
 
 import java.io.IOException;
 import java.nio.file.Files;
