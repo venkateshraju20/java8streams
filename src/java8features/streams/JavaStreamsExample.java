@@ -90,7 +90,7 @@ public class JavaStreamsExample {
 		}
 		System.out.println("");
 
-		// stream reduce
+		// Stream reduce
 		double totalValues = Stream.of(1.8, 3.7, 4.7).reduce(0.0, (Double a, Double b) -> a + b);
 		System.out.println(totalValues);
 		System.out.println("");
